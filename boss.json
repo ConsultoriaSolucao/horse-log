@@ -1,0 +1,11 @@
+{
+	"name": "horse-log",
+	"description": "",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "/src",
+	"projects": [],
+	"dependencies": {
+		"github.com/ConsultoriaSolucao/horse-log": "^v1.0.0"
+	}
+}
